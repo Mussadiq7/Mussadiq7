@@ -1,4 +1,4 @@
-Check out this [Pinterest pin]([https://www.pinterest.com/pin/7036943162225977/](https://assets.pinterest.com/ext/embed.html?id=7036943162225977))!
+[![Check this pin]()](https://www.pinterest.com/pin/7036943162225977/)
 
 # Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mussadiqnajeed_.03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mussadiq-najeed-0a332329b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mussadiqnajeed7@gmail.com) 
