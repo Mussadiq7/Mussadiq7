@@ -17,5 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussadiq7&show_icons=true&locale=en&layout=compact" alt="mussadiq7" /></p>
 
-<hr>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mussadiq7&theme=gruvbox-duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&card_height=200&hide_longest_streak=true)](https://git.io/streak-stats)
