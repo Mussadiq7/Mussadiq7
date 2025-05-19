@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mussadiq Najeed</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-<br>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mussadiq7&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=445&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussadiq7&show_icons=true&locale=en&layout=compact" alt="mussadiq7" /></p>
 
-<br>
 - 🌱 I’m currently learning **Full stack and Python**
 
 - 📫 How to reach me **mussadiqnajeed7@gmail.com**
