@@ -1,7 +1,7 @@
 [![Check this pin](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://www.pinterest.com/pin/7036943162225977/)
 
 # Hi, I'm Mussadiq Najeed 👋  
-💻 Computer Science Undergrad | FullStack Developer | Research Enthusiast
+💻 Computer Science Undergrad | FullStack Developer | Research Enthusiast | Exploring AI/ML
 
 ---
 
